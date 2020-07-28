@@ -1,0 +1,88 @@
+body{
+	overflow-x: hidden;
+}
+.navbar{
+	background-color: teal ;
+	padding-bottom: 0px;
+}
+.navbar .navbar-brand{
+	font-family: Britannic Bold;
+	font-size: 18pt;
+	color: #fff;
+}
+.navbar .navbar-brand:hover{
+	color: #fff;
+}
+.navbar .navbar-nav li a{
+	color: #fff;
+}
+.navbar .dropdown .dropdown-menu li a{
+	color: #000;
+}
+.navbar .dropdown .dropdown-menu li a:hover{
+	color: #fff;
+	background-color: black;
+	opacity: 0.5;
+}
+.navbar .navbar-toggle{
+	background-color: #ffffff;
+}
+#header{
+	width: 100%;
+	height: 200px;
+	background: url(p/2.png);
+	text-align: left;
+	padding: 15px;
+}
+#header h1{
+	margin: 0;
+	padding-top: 50px;
+	padding-bottom: 0px;
+	font-family: Britannic Bold;
+	font-size: 48pt;
+	color:black;
+}
+#header .deskripsi{
+	padding-top: 0px;
+	padding-bottom: 70px;
+	font-family: Calibri;
+	font-size: 20pt;
+	color: black;
+}
+body{
+	background-color: #f5f6fa;
+
+}
+.jumbotron{
+	background-image: url(p/2.png);
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.jumbotron h2{
+	font-size: 48pt;
+	color: black;
+	font-family: Consolas;
+}
+.jumbotron p{
+	font-family: Consolas;
+	font-size: 18pt;
+	color: black;
+}
+.btn-custom{
+	color: #ffffff;
+	background-color: #e74c3c;
+}
+.btn-custom2{
+	color: #ffffff;
+	background-color: #2ecc71;
+}
+.btn-custom3{
+	color: #ffffff;
+	background-color: #bd1b77;
+}
+.footer {
+			width: 100%;
+			height: 50px;
+			background-color: #2980b9;
+		}
+
